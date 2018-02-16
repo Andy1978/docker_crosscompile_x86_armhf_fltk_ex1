@@ -1,0 +1,1 @@
+Builds a docker image based on debian:stretch-slim with crosscompiler for armhf (for example a Raspberry Pi)
